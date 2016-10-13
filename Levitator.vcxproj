@@ -80,6 +80,7 @@
     <None Include="Levitator.ino">
       <FileType>CppCode</FileType>
     </None>
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="__vm\.Levitator.vsarduino.h" />
